@@ -1,0 +1,30 @@
+_repo: A-Plea-for-Captain-John-Brown--13-Read-to-the-citizens-of-Concord-Massachusetts-on-Sunday-even__2567
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thoreau, Henry David
+    alias: Thoreau, Henry D. (Henry David)
+    birthdate: 1817
+    deathdate: 1862
+    gutenberg_agent_id: '54'
+    url: http://www.gutenberg.org/2009/agents/54
+    wikipedia: http://en.wikipedia.org/wiki/Henry_David_Thoreau
+description: ''
+gutenberg_issued: '2001-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2567'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery'
+- !lcsh 'Brown, John, 1800-1859 -- Trials, litigation, etc.'
+- !lcsh 'Brown, John, 1800-1859'
+- !lcsh 'Government, Resistance to'
+- !lcc 'E300'
+- GITenberg
+title: "A Plea for Captain John Brown\r\nRead to the citizens of Concord, Massachusetts\
+  \ on Sunday evening, October thirtieth, eighteen fifty-nine"
+url: http://www.gutenberg.org/ebooks/2567
